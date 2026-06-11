@@ -1,4 +1,6 @@
-streamlit
+flask
+streamlit 
 pandas
-reportlab
-sqlalchemy
+numpy
+scikit-learn
+gunicorn
